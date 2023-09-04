@@ -14,7 +14,7 @@ enthusiasts to stay up‑to‑date on the latest market trends.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/rohit2k3/Crypto-Info-App.git
+git clone https://github.com/rohit2k3/crypto-info-synloop-hackathon.git
 ```
 2. Navigate to the project directory:
 
